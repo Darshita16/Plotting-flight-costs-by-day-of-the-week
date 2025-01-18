@@ -1,4 +1,6 @@
 # Plotting-flight-costs-by-day-of-the-week
+![image](https://github.com/user-attachments/assets/b3c53bb6-a588-4103-850e-7003ad24981d)
+
 This project idea involves creating one or more scatter plots using Excel to visualize airline ticket prices across different days of the week. I worked with a dataset containing flight costs for the days of the week, creating multiple charts for different routes or airlines. Plotting the prices using Excel's scatter plot feature, with days of the week on the x-axis and ticket costs on the y-axis. 
 
 This project introduces key concepts of data visualization using the widely accessible Excel software. It helps work with real-world data that's both relatable and potentially useful in their own lives. 
